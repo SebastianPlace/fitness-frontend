@@ -6,16 +6,11 @@ import {
 } from 'react-router-dom'
 
 import './App.css';
+import Routines from '../routines/Routines'
 
 const Home = () => (
   <div>
     <h2>Home</h2>
-  </div>
-)
-
-const Routines = () => (
-  <div>
-    <h2>Routines</h2>
   </div>
 )
 
